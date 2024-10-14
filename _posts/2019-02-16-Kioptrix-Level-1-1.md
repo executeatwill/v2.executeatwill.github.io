@@ -1,5 +1,8 @@
 ---
-published: true
+layout: post
+title: "Kioptrix Level 1-1"
+date: 2019-02-16 00:00:00 -0000
+categories: [OSCP, apache, oppenssl, boot2root]
 ---
 Vulnhub virtual machine; On the path to OSCP this box offered Apache/OpenSSL vulnerability which led to a custom version of the exploit and an environmental problem and solution. 
 

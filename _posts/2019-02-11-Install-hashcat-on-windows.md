@@ -1,5 +1,8 @@
 ---
-published: true
+layout: post
+title: "Install Hashcat on Windows"
+date: 2019-02-11 00:00:00 -0000
+categories: [cracking, windows]
 ---
 This is a guide to installing hashcat on a windows 10 build. Hashcat allows for the use of GPUs to crack hashes which is significantly faster then within a VM and/or using a CPU alone.
 
