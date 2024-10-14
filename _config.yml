@@ -16,7 +16,7 @@ timezone: America/Chicago
 
 title: executeatwill # the main title
 
-tagline: Exec - Pentester - Cybersecurity Fighter Pilot # it will display as the subtitle
+tagline: exec - Pentester - Cybersecurity Fighter Pilot # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Penetration Analysis & Security Research
