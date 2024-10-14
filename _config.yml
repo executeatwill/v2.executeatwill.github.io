@@ -16,7 +16,7 @@ timezone: America/Chicago
 
 title: executeatwill # the main title
 
-tagline: Pentester - Cybersecurity Fighter Pilot # it will display as the subtitle
+tagline: Pentester - Exec - Cybersecurity Fighter Pilot # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Penetration Analysis & Security Research
@@ -34,8 +34,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Will M.
-  email: executeatwill@protonmail.com # change to your email address
+  name: Exec
+  email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://x.com/executeatwill # change to your Twitter homepage
@@ -98,7 +98,7 @@ theme_mode: dark # [light | dark]
 #cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/favicon/eaw500x281.png"
+avatar: https://pbs.twimg.com/profile_images/1093879687116410882/vSqdgPhb_400x400.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
